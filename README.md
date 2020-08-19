@@ -1,4 +1,4 @@
-# Aos-animation
+# Read-me For AOS animation
 
 The AOS library was developed by Michal Sajnóg and he also created this handy website that demonstrates all of the different kinds of animations you can provide to your HTML elements.
 
@@ -12,7 +12,7 @@ There are many animation you can use like :-
 
 # Animations
 
- Fade animations:
+ ✨ Fade animations:
 
     fade
 
@@ -32,7 +32,7 @@ There are many animation you can use like :-
 
     fade-down-left
   
-  Flip animations:
+  ✨ Flip animations:
 
     flip-up
     
@@ -42,7 +42,7 @@ There are many animation you can use like :-
     
     flip-right
     
-    Slide animations:
+ ✨ Slide animations:
 
     slide-up
     
@@ -52,7 +52,7 @@ There are many animation you can use like :-
     
     slide-right
 
-  Zoom animations:
+  ✨ Zoom animations:
 
       zoom-in
       
@@ -74,7 +74,7 @@ There are many animation you can use like :-
       
       zoom-out-right
 
-   Anchor placements:
+   ✨ Anchor placements:
 
       top-bottom
       
@@ -94,7 +94,7 @@ There are many animation you can use like :-
       
       bottom-top
 
-   Easing functions:
+   ✨ Easing functions:
    
       linear
       
