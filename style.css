@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: poppins;
+}
+
+body {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  background: #0E0F34;
+}
+
+.divs {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  background: #0d1188;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #eee;
+}
